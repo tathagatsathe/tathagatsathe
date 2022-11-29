@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/tathagatsathe/tathagatsathe/blob/main/network1.jpg?raw=true)](https://tathagatsathe.github.io)
+<!-- [![MasterHead](https://github.com/tathagatsathe/tathagatsathe/blob/main/network1.jpg?raw=true)](https://tathagatsathe.github.io) -->
 <!-- <div><a href="https://tathagatsathe.github.io"><img align="right" alt="Coding" width="100%" src="https://github.com/tathagatsathe/tathagatsathe/blob/main/network1.jpg?raw=true"></a></div> -->
 <h1 align="center">Hi 👋, I'm Tathagat Sathe</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
