@@ -29,3 +29,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tathagatsathe&show_icons=true&locale=en&layout=compact" alt="tathagatsathe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tathagatsathe&show_icons=true&locale=en" alt="tathagatsathe" /></p>
+
+<p align=center>
+<img height="25" src="https://komarev.com/ghpvc/?username=tathagatsathe&color=brightgreen" />
+<a href="https://github.com/tathagatsathe"></a>
+</p>
