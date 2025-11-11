@@ -1,24 +1,85 @@
 <h1 align="center">Hi 👋, I'm Tathagat Sathe</h1>
-<h3 align="center">An Aspiring Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<h3 align="center">Backend Engineer | Building Scalable Systems | Exploring ML & AI</h3>
 
-
-- 🌱 I’m currently learning **OpenCV, Pytorch**
-
-- 💬 Ask me about **Data Science, Machine Learning, Web Developement**
-
-- 📫 How to reach me **tathagatsathe@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tathagatsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tathagatsathe" height="30" width="40" /></a>
-<a href="https://kaggle.com/tathagatsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tathagatsathe" height="30" width="40" /></a>
-<a href="https://instagram.com/tathagatsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tathagatsathe" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/tathagatsathe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/tathagatsathe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+  </a>
+  <a href="mailto:tathagatsathe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tathagatsathe&show_icons=true&locale=en&layout=compact" alt="tathagatsathe" /></p>
+### 👨‍💻 About Me
+I'm a **Backend Engineer** with experience building **secure, high-performance systems** at scale.  
+Currently working at **Freecharge (Axis Bank)** on **Investment** and **Personal Finance Manager** modules for one of India’s top-rated digital banking apps.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tathagatsathe&show_icons=true&locale=en" alt="tathagatsathe" /></p>
+I love solving complex engineering problems, designing efficient APIs, and exploring how **Machine Learning** can enhance backend intelligence and automation.  
+
+- 🔭 Currently working on: **Investment Products & SSO Integration at Axis Bank**
+- 🌱 Learning: **Distributed Systems**, **Microservices**, and **ML System Design**
+- 💬 Ask me about: **Node.js, AWS, Serverless, System Design, Backend Architecture**
+- ⚡ Fun fact: I’m an Aerospace Engineer turned Software Developer 🚀
+
+---
+
+### 🧠 Tech Stack
+
+#### 💻 Languages
+`Java` | `JavaScript (Node.js)` | `TypeScript` | `Python` | `SQL` | `C++`
+
+#### 🏗️ Backend & Frameworks
+`Express.js` | `Serverless Framework` | `Flask` | `Spring Boot` *(learning)*
+
+#### ☁️ Cloud & Tools
+`AWS Lambda` | `DynamoDB` | `S3` | `CloudFormation` | `Docker` | `Kubernetes`
+
+#### 🤖 ML & Data Science
+`PyTorch` | `TensorFlow` | `LangChain` | `Hugging Face` | `Scikit-learn`
+
+#### 🧩 Other Tools
+`Git` | `CI/CD` | `Agile` | `Postman` | `VS Code` | `Jira`
+
+---
+
+### 🚀 Featured Projects
+
+- **Hate Speech Detection**  
+  Fine-tuned **BERT** on social media data using **PyTorch, Docker, and Kubernetes**, building a scalable ML pipeline from data ingestion to deployment.
+
+- **Credit Card Fraud Detection**  
+  Designed an end-to-end fraud detection pipeline with **PySpark** and **AWS (SageMaker, Kinesis, Lambda)** using **XGBoost** for real-time detection.
+
+- **Conversational Document Query System**  
+  Built an **LLM-powered chatbot** with **LangChain & OpenAI API** to enable interactive document search and summarization.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tathagatsathe&theme=tokyonight" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tathagatsathe&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathagatsathe&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/tathagatsathe"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/tathagatsathe"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:tathagatsathe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+⭐️ From [Tathagat Sathe](https://github.com/tathagatsathe)
