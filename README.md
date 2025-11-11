@@ -11,6 +11,9 @@
   <a href="mailto:tathagatsathe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" />
   </a>
+  <a href="https://leetcode.com/u/tathagats/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode" />
+  </a>
 </p>
 
 ---
@@ -73,11 +76,22 @@ I love solving complex engineering problems, designing efficient APIs, and explo
 
 ---
 
+### 🧩 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/u/tathagats/">
+    <img src="https://leetcard.jacoblin.cool/tathagats?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/tathagatsathe"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/tathagatsathe"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="mailto:tathagatsathe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://leetcode.com/u/tathagats/"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
 
 ---
